@@ -6,7 +6,7 @@
       "brand": "Hormel Black Label Money",
       "price": "60",
       "quantity": 4,
-      "status": "Price Updated",
+      "status": "",
       "comment": "Price is not the same",
       "image": "https://media.istockphoto.com/id/94929126/photo/avocados-isolated-on-white.jpg?s=612x612&w=0&k=20&c=c0BSuWnUTAkZyj-cYHKzR5dXtZWQ1_3PXcea3M92Z4I=",
       "totalPrice": 240
@@ -17,7 +17,7 @@
       "brand": "Hormel Black Label Money",
       "price": 100,
       "quantity": 3,
-      "status": "Approved",
+      "status": "",
       "comment": "",
       "image": "https://media.istockphoto.com/id/94929126/photo/avocados-isolated-on-white.jpg?s=612x612&w=0&k=20&c=c0BSuWnUTAkZyj-cYHKzR5dXtZWQ1_3PXcea3M92Z4I=",
       "totalPrice": 300
@@ -28,7 +28,7 @@
       "brand": "Hormel Black Label Money",
       "price": 100,
       "quantity": 1,
-      "status": "Approved",
+      "status": "",
       "comment": "",
       "image": "https://media.istockphoto.com/id/94929126/photo/avocados-isolated-on-white.jpg?s=612x612&w=0&k=20&c=c0BSuWnUTAkZyj-cYHKzR5dXtZWQ1_3PXcea3M92Z4I="
     },
@@ -38,7 +38,7 @@
       "brand": "Hormel Black Label Money",
       "price": 100,
       "quantity": 1,
-      "status": "Approved",
+      "status": "",
       "comment": "",
       "image": "https://media.istockphoto.com/id/94929126/photo/avocados-isolated-on-white.jpg?s=612x612&w=0&k=20&c=c0BSuWnUTAkZyj-cYHKzR5dXtZWQ1_3PXcea3M92Z4I="
     },
@@ -48,7 +48,7 @@
       "brand": "Hormel Black Label Money",
       "price": "000",
       "quantity": 2,
-      "status": "Approved",
+      "status": "",
       "comment": "Price is not the same",
       "image": "https://media.istockphoto.com/id/94929126/photo/avocados-isolated-on-white.jpg?s=612x612&w=0&k=20&c=c0BSuWnUTAkZyj-cYHKzR5dXtZWQ1_3PXcea3M92Z4I=",
       "totalPrice": 0
@@ -59,7 +59,7 @@
       "brand": "Hormel Black Label Money",
       "price": 100,
       "quantity": 2,
-      "status": "Approved",
+      "status": "",
       "comment": "Quantity is not the same",
       "image": "https://media.istockphoto.com/id/94929126/photo/avocados-isolated-on-white.jpg?s=612x612&w=0&k=20&c=c0BSuWnUTAkZyj-cYHKzR5dXtZWQ1_3PXcea3M92Z4I=",
       "totalPrice": 200

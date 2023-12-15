@@ -7,10 +7,13 @@ import MissingItemCard from './MissingItemCard';
 import EditModal from './EditModal';
 
 const MainComponentCard = ({ id, name, brand, price, quantity, status, comment, image }) => {
+    const tableRowStyle = {
+        marginTop: '10px', // Adjust the margin-top value as needed
+      };
     const dispatch = useDispatch()
     return (
-        <>
-            <tr >
+          <>
+               <tr style={tableRowStyle}>
                 <td style={{ width: "50px" }}><img src={image} alt={name} /></td>
                 <td>{name}</td>
                 <td>{brand}</td>
@@ -22,8 +25,10 @@ const MainComponentCard = ({ id, name, brand, price, quantity, status, comment, 
                 <td style={{ cursor: "pointer" }}><MissingItemCard id={id} /></td>
                 <td><EditModal data={{id,name,brand,price,quantity,status,comment,image}}/></td>
             </tr>
+          </>
+         
         
-        </>
+      
     );
 }
 

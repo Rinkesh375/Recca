@@ -59,14 +59,16 @@ const MainComponent = () => {
 export default MainComponent;
 const Table = styled.table`
   width: 90%;
-  margin: auto;
+  margin: 1rem auto;
   text-align: center;
+  border: 1;
+  border-collapse: collapse;
+ 
 `;
 
 const TableBody = styled.tbody`
 
-
-
+ 
 
 `;
 
