@@ -33,4 +33,4 @@ Reeca revolutionizes product management with its dynamic and user-friendly inter
     
 
 4. # After Updating Product Status Main Screen Page :
-  - ![Home Page](https://github.com/Rinkesh375/Recca/assets/107518782/1b9c9518-2c4c-43b7-b10a-1ddd0d419ba2)
+  - ![Edit Product Status Modal](https://github.com/Rinkesh375/Recca/assets/107518782/b54d8d9b-ff33-4659-91c7-2372ed748d3b)
